@@ -1,5 +1,5 @@
 # RedCloud-Lab
-Hi, I'm [你的名字], a cybersecurity student passionate about **Red Teaming** and **Cloud Security**.
+Hi, I'm Baiter, a cybersecurity student passionate about **Red Teaming** and **Cloud Security**.
 
 This repository showcases my hands-on learning journey through TryHackMe, Hack The Box, AWS/Azure misconfiguration labs, and certification notes. I'm committed to continuous growth and building practical skills in offensive security and cloud-based attack surfaces.
 
